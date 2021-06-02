@@ -1,0 +1,180 @@
+
+.header{
+    background: #fff !important;
+}
+.nav_img {
+	max-width: 116%;
+	height: auto;
+}
+.menu .nav-item .nav-link {
+	font-size: 18px;
+	line-height: 44px;
+    margin-left: 10px;
+}
+
+.banner_section{
+    background: #f9f9ff;
+}
+
+.b_left h4{
+    margin-top: 160px !important;
+    font-size: 30px;
+}
+.b_left h1{
+    font-size: 50px;
+}
+.b_left p{
+    font-size: 18px;
+}
+.b_btn{
+    background: #8490ff;
+    color: #fff;
+    border-color:#8490ff ;
+}
+/* ==============About-section==================== */
+.about_right h5 {
+	margin-top: 61px !important;
+	font-size: 23px;
+}
+.about_right h1 {
+	font-size: 47px;
+}
+
+.cout_section{
+    background: #8490ff;
+}
+
+/* ============cards-section==================== */
+.cards_section{
+    background: #f9f9ff;
+}
+.cards_title p {
+	font-size: 22px;
+	margin-top: 11px;
+	font-weight: 500;
+}
+.cards {
+	background: #fff;
+	padding: 20px;
+	box-shadow: 2px 2px 33px 9px #f1f7ff;
+	border-radius: 5px;
+	padding-bottom: 30px;
+}
+
+.cards h4 {
+	font-size: 24px;
+	font-weight: 500;
+	margin-bottom: 0;
+}
+.cards p {
+	font-size: 19px;
+}
+.cards ul li {
+	font-size: 23px;
+	line-height: 75px;
+	color: #938989;
+}
+.cards_btnn {
+	font-size: 23px;
+	padding: 12px 31px;
+	font-weight: 600;
+	border-radius: 10px;
+	color: #657be0;
+	border-color: #657be0;
+	border: 2px solid;
+	transition: .5s;
+}
+.cards:hover .cards_btnn{
+    background: #657be0;
+    color: #fff;
+    border: 2px solid #657be0 ;
+}
+.numbur {
+	height: 114px;
+	width: 114px;
+	border-radius: 50%;
+	margin: auto;
+	background: #f9f9ff;
+    transition: .5s;
+	margin-bottom: 10px;
+}
+.cards:hover .numbur{
+    background: #657be0;
+    color: #fff;
+}
+.numbur h1 {
+	line-height: 104px;
+}
+
+/* =============team-section==================== */
+
+.team {
+	padding: 20px;
+	position: relative;
+	border-radius: 5px;
+	box-shadow: 2px 2px 20px #ddd !important;
+	margin-top: 29px;
+}
+
+.t_img img {
+	width: 105px;
+	position: absolute;
+	top: -59px;
+	left: 0;
+}
+.team h3 {
+	margin-top: 46px;
+    margin-bottom: 0;
+}
+.team p {
+	font-size: 18px;
+
+}
+
+/* ==================form_section============== */
+
+.form_section{
+    background: #f9f9ff;
+}
+.form_title {
+	border-radius: 6px;
+	background: #fff !important;
+	padding: 38px 48px !important;
+	box-shadow: 2px 2px 33px 9px #e8ecf2;
+}
+.f_btn {
+	background: #17a2b8;
+	color: #fff;
+	border-color: #17a2b8;
+	font-size: 22px;
+	font-weight: 600;
+	margin: 40px 0;
+	margin-top: 16px;
+}
+.fixed_size{
+    font-size: 22px;
+}
+.form_titles p {
+	font-size: 24px;
+}
+.f_rights {
+	margin-top: 134px;
+	margin-left: 48px;
+}
+.f_rights h2 {
+	font-size: 40px;
+}
+
+.f_rights ul li {
+	font-size: 22px;
+	line-height: 53px;
+}
+
+.footer_section{
+    background: #04091e;
+    color: #fff;
+}
+.footer_section p{
+    font-size: 20px;
+    margin-bottom: 0;
+}
